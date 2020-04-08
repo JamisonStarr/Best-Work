@@ -1,0 +1,27 @@
+body {
+    background-color: lightblue;
+  }
+  
+  h1 {
+    color: navy;
+    margin-left: 20px;
+  }
+  hr {
+    position: relative; 
+            top: 20px; 
+            border: none; 
+            height: 4px; 
+            background: rgb(255, 115, 0); 
+            margin-bottom: 50px; 
+}
+.padding{
+    margin-top:25px;
+}
+#searchbutton{
+    float: right;
+    width: 54%;
+}
+#rating-search{
+    float: right;
+    width: 100%;
+}
