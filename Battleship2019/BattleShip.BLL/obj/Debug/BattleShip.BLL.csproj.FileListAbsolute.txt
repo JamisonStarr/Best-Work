@@ -1,0 +1,5 @@
+C:\Users\jamis\source\repos\Battleship2019\BattleShip.BLL\bin\Debug\BattleShip.BLL.dll
+C:\Users\jamis\source\repos\Battleship2019\BattleShip.BLL\bin\Debug\BattleShip.BLL.pdb
+C:\Users\jamis\source\repos\Battleship2019\BattleShip.BLL\obj\Debug\BattleShip.BLL.csprojAssemblyReference.cache
+C:\Users\jamis\source\repos\Battleship2019\BattleShip.BLL\obj\Debug\BattleShip.BLL.dll
+C:\Users\jamis\source\repos\Battleship2019\BattleShip.BLL\obj\Debug\BattleShip.BLL.pdb
